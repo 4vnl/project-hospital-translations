@@ -7,15 +7,16 @@
         <Contributors>
             <Name>Alexander Mahy</Name>
             <Name>Joel Erthal</Name>
+            <Name>Vinícius de Resende</Name>
         </Contributors>
         
         <LocalizedStrings>
             <!--Building-->
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT</LocID>                       <Text>Ah, este é o lugar</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT</LocID>                       <Text>Ah, esse é o lugar</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT_DESCRIPTION</LocID>           <Text>Parabéns, você posicionou seu primeiro objeto.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS</LocID>                         <Text>Hum, mais locais!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS_DESCRIPTION</LocID>             <Text>Posicione 100 objetos individuais.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_All_SPOTS</LocID>                          <Text>Ah há, todos os locais!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_All_SPOTS</LocID>                          <Text>Ah ha, todos os locais!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_All_SPOTS_DESCRIPTION</LocID>              <Text>Posicione 1000 objetos individuais.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_VERY_NICE</LocID>                          <Text>Muito bem! Simplesmente lindo!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_VERY_NICE_DESCRIPTION</LocID>              <Text>Posicione 100 decorações.</Text>  </GameDBLocalizedString>
@@ -26,7 +27,7 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GOING_UP</LocID>                           <Text>Subindo</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GOING_UP_DESCRIPTION</LocID>               <Text>Construa o primeiro andar.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOP_FLOOR</LocID>                          <Text>Último andar, por favor!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOP_FLOOR_DESCRIPTION</LocID>              <Text>Construa o número máximo de andares.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOP_FLOOR_DESCRIPTION</LocID>              <Text>Construa o máximo de andares.</Text>  </GameDBLocalizedString>
 
             <!--TODO plug in acording to priority -->
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BUILDER</LocID>                            <Text>Arquiteto</Text>  </GameDBLocalizedString>
@@ -35,9 +36,9 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CRUSHER_DESCRIPTION</LocID>                <Text>Remova sua primeira sala.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVER</LocID>                              <Text>Movedor</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVER_DESCRIPTION</LocID>                  <Text>Mova 50 objetos.</Text>  </GameDBLocalizedString>            
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GREAT_WALL</LocID>                         <Text>A Grande Muralha hospitalar</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GREAT_WALL</LocID>                         <Text>A Grande Muralha Hospitalar</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GREAT_WALL_DESCRIPTION</LocID>             <Text>Construa mais de 1000 blocos de paredes.</Text>  </GameDBLocalizedString>            
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOILETS</LocID>                            <Text>Sou eu, o Mário!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOILETS</LocID>                            <Text>Sou eu, Mário!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOILETS_DESCRIPTION</LocID>                <Text>Posicione 30 privadas.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LITTER_FREE</LocID>                        <Text>Sem lixo</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LITTER_FREE_DESCRIPTION</LocID>            <Text>Posicione 30 lixeiras.</Text>  </GameDBLocalizedString>
@@ -88,13 +89,13 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SENT_PATIENTS_HOME</LocID>                 <Text>Caseiro</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SENT_PATIENTS_HOME_DESCRIPTION</LocID>     <Text>Mande 20 pacientes para casa.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BANKER</LocID>                             <Text>Banqueiro</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BANKER_DESCRIPTION</LocID>                 <Text>Tenha 700 000$ no seu orçamento.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BANKER_DESCRIPTION</LocID>                 <Text>Tenha 700.000$ no seu orçamento.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SPENDER</LocID>                            <Text>Esbanjador</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SPENDER_DESCRIPTION</LocID>                <Text>Gaste mais de 1 000 000$.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SPENDER_DESCRIPTION</LocID>                <Text>Gaste mais de 1.000.000$.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_JANITOR</LocID>                            <Text>Dr. Zelador</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_JANITOR_DESCRIPTION</LocID>                <Text>Seus faxineiros já limparam 10000 blocos.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DONT_COLLAPSE</LocID>                      <Text>Por favor, não morra nos corredores!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DONT_COLLAPSE_DESCRIPTION</LocID>          <Text>Vivencie 10 pacientes entrando em colapso no ambulatório.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DONT_COLLAPSE_DESCRIPTION</LocID>          <Text>Assista 10 pacientes entrando em colapso no ambulatório.</Text>  </GameDBLocalizedString>
 
             <!--TODO plug in acording to priority -->
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ALCOHOLIC</LocID>                          <Text>Espera, isto aqui é um bar?</Text>  </GameDBLocalizedString>
@@ -104,7 +105,7 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CMS</LocID>                                <Text>Uma máquina bem ajustada</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CMS_DESCRIPTION</LocID>                    <Text>Consiga 5 estrelas de prestígio.</Text>  </GameDBLocalizedString>            
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_POLYGOT</LocID>                            <Text>Poliglota</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_POLYGOT_DESCRIPTION</LocID>                <Text>Mude a língua do jogo pelo menos 3 vezes.</Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_POLYGOT_DESCRIPTION</LocID>                <Text>Mude o idioma do jogo pelo menos 3 vezes.</Text>  </GameDBLocalizedString>            
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TWINKLE</LocID>                            <Text>Hospital público</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TWINKLE_DESCRIPTION</LocID>                <Text>Tenha somente uma estrela de prestígio.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_EAGLE</LocID>                              <Text>Roda a roda</Text>  </GameDBLocalizedString>
